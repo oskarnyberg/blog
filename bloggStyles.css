@@ -1,0 +1,86 @@
+.headers{
+    display: flex;
+    flex-direction: row;
+}
+.image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 300px;
+}
+.blogImage{
+  width: 50%;
+  height: 50%;
+}
+.portrait{
+    display: block;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 15%;
+  height: 10%;
+}
+.myPageTitle{
+    margin: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.aboutMe{
+  display: block;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.aboutMeText{
+  margin-right: 25%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.blogDraft{
+  display: block;
+  text-align: center;
+  border: 1px solid black;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.links{
+    display: block;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.body{
+    display: flexbox;
+    flex-direction: row;
+}
+.divs{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.button{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.footer{
+    display: flex;
+    orientation: landscape;
+
+   bottom:0px;
+   width:99%;
+   height:60px;
+   background:gray;
+   margin-top: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 400px;
+}
